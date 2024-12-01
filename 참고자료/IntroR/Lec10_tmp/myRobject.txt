@@ -1,0 +1,4 @@
+list(foo = c(5, 2, 45), bar = structure(c(TRUE, TRUE, FALSE, 
+FALSE, FALSE, FALSE, TRUE, FALSE, TRUE), dim = c(3L, 3L)), baz = structure(c(1L, 
+2L, 2L, 3L, 1L, 1L, 3L), levels = c("1", "2", "3"), class = c("ordered", 
+"factor")))

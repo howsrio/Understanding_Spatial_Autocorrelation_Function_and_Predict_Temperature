@@ -1,0 +1,15 @@
+ 2022_Spring Best psill: 0.4 
+ 2022_Spring Best range: 1.9 
+ 2022_Spring Minimum MSE: 0.6370235 
+
+ 2022_Summer Best psill: 0.44 
+ 2022_Summer Best range: 1.94 
+ 2022_Summer Minimum MSE: 0.6695751
+
+ 2022_Fall Best psill: 0.46 
+ 2022_Fall Best range: 2.12 
+ 2022_Fall Minimum MSE: 0.7876555 
+
+ 2022_Winter Best psill: 0.59 
+ 2022_Winter Best range: 3.56 
+ 2022_Winter Minimum MSE: 0.6652687 
